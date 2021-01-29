@@ -1,6 +1,6 @@
 # Welcome to my Applied Machine Learning repository (DATA 310)
 
-##Informal Exercises 
+## Informal Exercises 
 
 -January_29
 -February_5
