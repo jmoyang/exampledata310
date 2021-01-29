@@ -2,9 +2,9 @@
 
 ## Informal Exercises 
 
--January_29
--February_5
--February_11
+- January_29
+- February_5
+- February_11
 
 ## Projects
 
